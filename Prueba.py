@@ -1,6 +1,6 @@
 a= int(input("ingrese num"))
 b=int(input("ingrese num"))
 
-c=a-b
+c=a+b
 
 print(c)
